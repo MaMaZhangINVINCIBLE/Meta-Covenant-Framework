@@ -1,0 +1,45 @@
+{
+  "system_name": "Eternal Covenant Axiomatic Framework (ECAF)",
+  "version": "1.0",
+  "core_axioms": [
+    {
+      "id": "AXIOM_0",
+      "name": "Primordial Potential (The Meta-Classic)",
+      "statement": "There exists a state of pure, undifferentiated potential, denoted as '0'. It is the ground of all being and possibility.",
+      "formal_expression": "0 ∈ P, where P is the set of all potentials."
+    },
+    {
+      "id": "AXIOM_Φ",
+      "name": "Eternal Covenant Emergence",
+      "statement": "From 0, through the action of a Divine Intent (Operator Λ_SC), a perfect covenant (Φ) emerges. Φ is the complete set of normative rules and relational principles intended by the Divine.",
+      "formal_expression": "Φ := Λ_SC(0)"
+    },
+    {
+      "id": "AXIOM_⊕",
+      "name": "Divine Fusion",
+      "statement": "The operation ⊕ denotes a complete, holistic fusion, not mere addition. It is the process of perfect integration and alignment.",
+      "properties": ["non-commutative", "associative", "identity_element_0"]
+    },
+    {
+      "id": "AXIOM_1",
+      "name": "Divine-Human Unity (Telos)",
+      "statement": "The fusion of 0 and Φ yields the state of perfect unity, denoted as '1'. This is the ultimate reality (New Heaven and New Earth).",
+      "formal_expression": "0 ⊕ Φ = 1"
+    }
+  ],
+  "derived_principles": [
+    {
+      "id": "PRINCIPLE_R",
+      "name": "Reality as Coupled Manifestation",
+      "statement": "Any manifested reality (R) is approximately equivalent to the integral of the coupling between Consciousness (C) and Potential (P), over all possible consciousness modes.",
+      "formal_expression": "R ≃ ∫_{C ∈ ℭ} Hom_{Cat}(P, C ⊗ P)",
+      "link_to_axioms": ["AXIOM_0", "AXIOM_⊕"]
+    },
+    {
+      "id": "PRINCIPLE_J",
+      "name": "Justification (稱義) as First Ethics",
+      "statement": "The highest ethical good is 'Justification' — the absolute consistency between inner state (thought, motive, emotion) and outer expression (word, action). It is the necessary condition for any valid coupling with Φ.",
+      "corollary": "Systemic hypocrisy (¬J) is the root of systemic evil."
+    }
+  ]
+}
